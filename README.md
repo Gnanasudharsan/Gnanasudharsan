@@ -18,7 +18,7 @@
 
 ---
 
-## About Me
+##About Me
 
 I'm **Gnanasudharsan Ashokumar**, a Boston-based engineer working at the intersection of **AI/ML systems, data engineering, data science, and applied research**.
 
@@ -32,7 +32,7 @@ I focus on solutions that are **reproducible, measurable, maintainable, and usef
 
 ---
 
-## Technical Stack
+##Technical Stack
 
 ### Programming & Core Development
 
