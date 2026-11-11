@@ -1,24 +1,24 @@
 
 <div align="center">
 
-# Gnanasudharsan Ashokumar
+<!-- DESIGN SYSTEM: graphite #12151A | warm white #F5F2ED | signal orange #FF8055 -->
 
-**AI/ML Systems &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Applied Research**
+<img width="100%" alt="Gnanasudharsan Ashokumar — AI/ML Systems, Data Engineering, Data Science, Applied Research" src="https://capsule-render.vercel.app/api?type=rect&color=12151A&height=210&section=header&text=Gnanasudharsan%20Ashokumar&fontFamily=Space%20Grotesk&fontSize=42&fontColor=F5F2ED&fontAlignY=42&desc=AI%2FML%20SYSTEMS%20%E2%80%A2%20DATA%20ENGINEERING%20%E2%80%A2%20DATA%20SCIENCE%20%E2%80%A2%20APPLIED%20RESEARCH&descSize=13&descColor=C5C8CA&descAlignY=69&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=17&duration=3200&pause=1800&color=8F7761&center=true&vCenter=true&width=760&height=42&lines=Engineering+reliable+data+and+AI+systems;Turning+research+into+production-ready+solutions;Building+with+precision%2C+curiosity%2C+and+impact" alt="Engineering reliable data and AI systems — applied research to production" />
+<a href="https://git.io/typing-svg"><img alt="Animated engineering focus" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3100&pause=1300&color=FF8055&center=true&vCenter=true&width=790&height=48&lines=%3E+designing+reliable+AI%2FML+systems;%3E+engineering+data+from+source+to+scale;%3E+turning+applied+research+into+software" /></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-383B40?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnanasudharsan/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-383B40?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qJAogF8AAAAJ&hl=en)
-[![University Email](https://img.shields.io/badge/University_Email-726B63?style=flat-square&logo=gmail&logoColor=white)](mailto:ashokumar.j@northeastern.edu)
-[![Personal Email](https://img.shields.io/badge/Personal_Email-726B63?style=flat-square&logo=gmail&logoColor=white)](mailto:gnana1403@gmail.com)
+<a href="https://www.linkedin.com/in/gnanasudharsan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-252A30?style=for-the-badge&logo=linkedin&logoColor=F5F2ED" /></a>
+<a href="https://scholar.google.com/citations?user=qJAogF8AAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-252A30?style=for-the-badge&logo=googlescholar&logoColor=F5F2ED" /></a>
+<a href="mailto:ashokumar.j@northeastern.edu"><img alt="Email — University" src="https://img.shields.io/badge/University_Email-FF8055?style=for-the-badge&logo=gmail&logoColor=12151A" /></a>
+<a href="mailto:gnana1403@gmail.com"><img alt="Email — Personal" src="https://img.shields.io/badge/Personal_Email-FF8055?style=for-the-badge&logo=gmail&logoColor=12151A" /></a>
 
 </div>
 
 ---
 
-## About Me
+## 01 / About Me
 
 I'm **Gnanasudharsan Ashokumar**, a Boston-based engineer working at the intersection of **AI/ML systems, data engineering, data science, and applied research**.
 
@@ -32,7 +32,7 @@ I focus on solutions that are **reproducible, measurable, maintainable, and usef
 
 ---
 
-## Technical Stack
+## 02 / Technical Stack
 
 ### Programming & Core Development
 
@@ -53,12 +53,12 @@ I focus on solutions that are **reproducible, measurable, maintainable, and usef
 ### Generative AI, LLMs & Agentic Systems
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-383B40?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-655B54?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-E5B75A?style=for-the-badge&logo=huggingface&logoColor=383B40" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-383B40?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-514B45?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Ollama-44484C?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/OpenAI-252A30?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-252A30?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF8055?style=for-the-badge&logo=huggingface&logoColor=12151A" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-252A30?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-252A30?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-252A30?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
 `Generative AI` · `Large Language Models (LLMs)` · `OpenAI API` · `Claude` · `Hugging Face` · `Retrieval-Augmented Generation (RAG)` · `LangChain` · `LangGraph` · `Vector Search` · `pgvector` · `Embeddings` · `Prompt Engineering` · `Tool Calling` · `Agentic Workflows` · `Semantic Search` · `Retrieval Evaluation` · `Grounded Generation` · `LLM Evaluation` · `AI Agents` · `Prompt & Context Engineering`
@@ -89,18 +89,20 @@ I focus on solutions that are **reproducible, measurable, maintainable, and usef
 
 ---
 
-## Let's Connect
+## 03 / Let's Connect
 
 I'm open to conversations and collaborations in **AI/ML engineering, data engineering, data science, MLOps, and applied research**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-383B40?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnanasudharsan/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-383B40?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qJAogF8AAAAJ&hl=en)
+<a href="https://www.linkedin.com/in/gnanasudharsan/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-252A30?style=for-the-badge&logo=linkedin&logoColor=F5F2ED" /></a>
+<a href="https://scholar.google.com/citations?user=qJAogF8AAAAJ&hl=en"><img alt="Explore Google Scholar publications" src="https://img.shields.io/badge/Google_Scholar-Publications-252A30?style=for-the-badge&logo=googlescholar&logoColor=F5F2ED" /></a>
 
-**University:** [ashokumar.j@northeastern.edu](mailto:ashokumar.j@northeastern.edu)  
-**Personal:** [gnana1403@gmail.com](mailto:gnana1403@gmail.com)
+<a href="mailto:ashokumar.j@northeastern.edu"><img alt="Send email to university address" src="https://img.shields.io/badge/Email-University-FF8055?style=for-the-badge&logo=gmail&logoColor=12151A" /></a>
+<a href="mailto:gnana1403@gmail.com"><img alt="Send email to personal address" src="https://img.shields.io/badge/Email-Personal-FF8055?style=for-the-badge&logo=gmail&logoColor=12151A" /></a>
 
-*Build with rigor. Measure what matters. Make it reliable.*
+<br/><br/>
+
+<sub><i>Build with rigor. Measure what matters. Make it reliable.</i></sub>
 
 </div>
