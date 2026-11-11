@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/gnanasudharsan/"><img src="https://img.shields.io/badge/LinkedIn-202329?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?user=qJAogF8AAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Scholar-202329?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="mailto:ashokumar.j@northeastern.edu"><img src="https://img.shields.io/badge/University%20Mail-B46767?style=flat-square&logo=gmail&logoColor=white" alt="Compose an email to university address" /></a>
+  <a href="mailto:ashokumar.g@northeastern.edu"><img src="https://img.shields.io/badge/University%20Mail-B46767?style=flat-square&logo=gmail&logoColor=white" alt="Compose an email to university address" /></a>
   <a href="mailto:gnana1403@gmail.com"><img src="https://img.shields.io/badge/Personal%20Mail-B46767?style=flat-square&logo=gmail&logoColor=white" alt="Compose an email to personal address" /></a>
 </p>
 
