@@ -26,7 +26,7 @@
 
 ---
 
-## 01 — About
+## About
 
 I'm **Gnanasudharsan Ashokumar**, a Boston-based engineer working at the intersection of **AI/ML systems, data engineering, data science, and applied research**.
 
@@ -40,7 +40,7 @@ I focus on solutions that are **reproducible, measurable, maintainable, and usef
 
 ---
 
-## 02 — Toolkit
+##  Toolkit
 
 ### Programming & Core Development
 
@@ -92,17 +92,6 @@ I focus on solutions that are **reproducible, measurable, maintainable, and usef
 `Power BI` · `Tableau` · `Excel` · `Plotly` · `Matplotlib` · `Seaborn` · `Streamlit` · `Dashboard Design` · `Data Storytelling` · `Geospatial Analysis`
 
 ---
-
-## 03 — Connect
-
-I'm open to conversations and collaborations in **AI/ML engineering, data engineering, data science, MLOps, and applied research**.
-
-| Network | Contact |
-| :-- | :-- |
-| **LinkedIn** | [Connect with me](https://www.linkedin.com/in/gnanasudharsan/) |
-| **Google Scholar** | [Explore publications](https://scholar.google.com/citations?user=qJAogF8AAAAJ&hl=en) |
-| **University email** | [Compose an email](mailto:ashokumar.j@northeastern.edu) |
-| **Personal email** | [Compose an email](mailto:gnana1403@gmail.com) |
 
 <div align="center">
 
